@@ -1,5 +1,5 @@
 <?php
-
+namespace Database\Seeders;
 use Illuminate\Database\Seeder;
 use App\Models\Article;
 use Faker\Factory as Faker;
